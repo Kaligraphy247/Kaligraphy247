@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaligraphy247
 - 👀 I’m interested in Tech, The order of the Python and its Objects, food.eat()
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Mostly Itermediate Projects and print(Ideas, Mentorships)
+- 💞️ I’m looking to collaborate on Mostly Intermediate Projects and print(Ideas, Mentorships)
 - 📫 How to reach me 🤔💭
 
 <!---
