@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kaligraphy247
-- 👀 I’m interested in Tech, The order of the Python and its Objects, food.eat()
-- 🌱 I’m currently availabe for more Python(ing)
-- 💞️ I’m looking to collaborate on Mostly Intermediate Project
-- 📫 How to reach me 🤔💭
+- 👀 I’m interested in Tech, System, Python and Rust.
+- 🌱 I’m currently availabe for contribution to Python Projects
+- 📫 How to reach me 🤔💭 [Twitter!](https://twitter.com/kaligraph_jay/)
 
 <!---
 Kaligraphy247/Kaligraphy247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
