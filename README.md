@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaligraphy247
-- 👀 I’m interested in Tech, System, Python and Rust.
+- 👀 I’m interested in Tech, Systems, Python and Rust.
 - 🌱 I’m currently availabe for contribution to Python Projects
 - 📫 How to reach me 🤔💭 [Twitter!](https://twitter.com/kaligraph_jay/)
 
